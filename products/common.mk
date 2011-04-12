@@ -44,6 +44,12 @@ PRODUCT_COPY_FILES += \
       vendor/savagedzen/CHANGELOG.mkdn:system/etc/CHANGELOG-SZ.txt \
       vendor/savagedzen/CREDITS.mkdn:system/etc/CREDITS-SZ.txt
 
+# T-Mobile theme engine
+include vendor/savagedzen/products/themes_common.mk
+
+# Theme packages
+include vendor/savagedzen/products/themes.mk
+
 # Copy over the BASH for VDD profiles to the device
 PRODUCT_COPY_FILES += \
       vendor/savagedzen/prebuilt/common/etc/vdd_profiles/800SZ.sh:system/etc/vdd_profiles/800SZ.sh \
