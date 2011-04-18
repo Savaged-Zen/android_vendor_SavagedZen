@@ -115,5 +115,14 @@ CHANGELOG
 * BFS v376
 * Starting voltage raised to 925mV for stability
 
+###2.0.0
+* Rebased on CM's unified tree
+* Updated to 2.6.38.3
+* Updated to 2.6.38-ck3 + bfs 400
+* Starting voltage raised to 950mV
+* SBC Fixes (no more 100% CPU usage on the charger)
+* Misc. fixes (codeaurora+intersectRaven)
+* Several misc. problems fixed
+
 Known issues:
 -------------
