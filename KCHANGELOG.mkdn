@@ -16,9 +16,9 @@ CHANGELOG
 ###Here are all the goodies in our original beta:
 
 *Simple I/O Scheduler
-// *Deactivate Invalidated Pages patchset - Dropped in 1.0.0
-// *Preemptible MM patchset - Dropped in 1.0.0
-// *I/O Less Dirty Throttling patchset - Dropped in 1.0.0
+// *Deactivate Invalidated Pages patchset - Dropped in 1.0.0+
+// *Preemptible MM patchset - Dropped in 1.0.0+
+// *I/O Less Dirty Throttling patchset - Dropped in 1.0.0+
 *CFS SCHED_AUTOGROUP
 *SIO/BFS
 *SLQB
@@ -123,6 +123,10 @@ CHANGELOG
 * SBC Fixes (no more 100% CPU usage on the charger)
 * Misc. fixes (codeaurora+intersectRaven)
 * Several misc. problems fixed
+
+###2.0.1
+* MMC updates from Andrew Weikem (motrola)
+* msm: misc. missed updates from 2.6.38
 
 Known issues:
 -------------
