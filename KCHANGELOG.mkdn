@@ -13,21 +13,23 @@ Maintainers:
 
 CHANGELOG
 ---------
-###Here are all the goodies in our original beta:
-
+###Updated Feature Overview:
 *Simple I/O Scheduler
-// *Deactivate Invalidated Pages patchset - Dropped in 1.0.0+
-// *Preemptible MM patchset - Dropped in 1.0.0+
-// *I/O Less Dirty Throttling patchset - Dropped in 1.0.0+
+*Deactivate Invalidated Pages patchset
+*I/O Less Dirty Throttling patchset
 *CFS SCHED_AUTOGROUP
-*SIO/BFS
+*BFS
+*BFQ
 *SLQB
 *HAVS
+*HAVS sysfs intrface
+*SBC mod
+*SBC sysfs interface
 *Ondemand tweaks
 *Awesome conservative tweaks
-*Smartass governor
+*Smartass+SavagedZen governor
 *Max OC to 1.19Ghz
-*Undervolted min 925
+*Undervolted min 950
 
 ###0.0.3:
 *ClassicRCU
@@ -100,7 +102,7 @@ CHANGELOG
 ###1.0.0
 * Massively upgraded to 2.6.38.1 by Brandon
 * 2.6.38-ck1
-* Audio boost from tiamin
+* Audio boost from Chad0989
 * Some updates from CM and CodeAurora
 
 ###1.0.1
@@ -125,8 +127,11 @@ CHANGELOG
 * Several misc. problems fixed
 
 ###2.0.1
-* MMC updates from Andrew Weikem (motrola)
-* msm: misc. missed updates from 2.6.38
+* MSM: Misc. code updates that were missed in the rebase
+* MMC: Several fixes from motorola
+* Deactivate Pages Patchset for 2.6.38
+* I/O Less Dirty Throttling Patchset for 2.6.38
+* Misc. updates
 
 Known issues:
 -------------
