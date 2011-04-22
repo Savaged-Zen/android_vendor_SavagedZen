@@ -127,6 +127,8 @@ CHANGELOG
 * Several misc. problems fixed
 
 ###2.0.1
+* 2.6.38.4
+* Update to bfs 401
 * MSM: Misc. code updates that were missed in the rebase
 * MMC: Several fixes from motorola
 * Deactivate Pages Patchset for 2.6.38
