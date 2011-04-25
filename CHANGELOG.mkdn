@@ -67,3 +67,11 @@ CHANGELOG
 * SystemUI: Clear notification bar (almost done) - preludedrew
 * SZParts: SBC on/off toggle - mwielgosz
 * Kernel: SBC SYSFS interface - bbedward
+
+### RC3
+* Inc: start INC renditions
+* Supersonic: Update kernel to 2.0.2 CFS
+* SystemUI: Add Quiet Hours
+* SystemUI: Add Theme Chooser
+* SystemUI: Add Auto Theme compatibility
+* Email: Add CM7 Exchange optimizations
