@@ -75,3 +75,4 @@ CHANGELOG
 * SystemUI: Add Theme Chooser
 * SystemUI: Add Auto Theme compatibility
 * Email: Add CM7 Exchange optimizations
+* SZParts: Add System Settings and reorganize
