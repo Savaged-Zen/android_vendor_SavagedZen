@@ -135,5 +135,9 @@ CHANGELOG
 * I/O Less Dirty Throttling Patchset for 2.6.38
 * Misc. updates
 
+###2.0.2
+* Reverted 2.6.38.4, caused SD mount issues
+* Zen-Tune and more tweaks
+
 Known issues:
 -------------
