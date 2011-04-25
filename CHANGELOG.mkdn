@@ -10,6 +10,8 @@ Follow http://twitter.com/szgit for commit-by-commit updates.
 Maintainers:
 ------------
 * Supersonic: jsseidel, mwielgosz
+* Inc: jsseidel, mwielgosz
+* Common: jsseidel, mwielgosz, Gibby
 
 CHANGELOG
 ---------
