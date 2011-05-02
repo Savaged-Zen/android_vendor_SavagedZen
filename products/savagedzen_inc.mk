@@ -16,7 +16,7 @@ PRODUCT_PROPERTY_OVERRIDES += ro.product.version=3.26.605.1
 # Set up the product codename, build version & MOTD.
 PRODUCT_CODENAME := Inc
 
-BUILD_VERSION_MAIN := RC3
+BUILD_VERSION_MAIN := RC4
 
 #BUILD_VERSION := $(BUILD_VERSION_MAIN)-$(PRODUCT_CODENAME)
 BUILD_VERSION := $(BUILD_VERSION_MAIN)-$(PRODUCT_CODENAME)-Rendition-$(shell date +%m%d%Y)
