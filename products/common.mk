@@ -32,7 +32,7 @@ PRODUCT_PACKAGES += \
     SZParts \
     SZWallpapers \
     FileManager \
-    Launcher2 \
+    ADWLauncher2 \
     Terminal
 
 # Extra tools in SavagedZen
