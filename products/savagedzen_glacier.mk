@@ -1,5 +1,5 @@
 $(call inherit-product, device/htc/glacier/glacier.mk)
-$(call inherit-product, vendor/evervolv/products/common.mk)
+$(call inherit-product, vendor/savagedzen/products/common.mk)
 
 # Include GSM stuff
 $(call inherit-product, vendor/savagedzen/products/gsm.mk)
