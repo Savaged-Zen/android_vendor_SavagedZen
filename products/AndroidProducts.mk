@@ -15,8 +15,8 @@ else ifeq ($(TARGET_PRODUCT),savagedzen_inc)
 #  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_vision.mk
 #else ifeq ($(TARGET_PRODUCT),savagedzen_heroc)
 #  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_heroc.mk
-#else ifeq ($(TARGET_PRODUCT),savagedzen_glacier)
-#  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_glacier.mk
+else ifeq ($(TARGET_PRODUCT),savagedzen_glacier)
+  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_glacier.mk
 #else ifeq ($(TARGET_PRODUCT),savagedzen_passion)
 #  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_passion.mk
 #else ifeq ($(TARGET_PRODUCT),savagedzen_harmony)
