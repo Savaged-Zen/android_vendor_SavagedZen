@@ -7,7 +7,7 @@ $(call inherit-product, vendor/savagedzen/products/gsm.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := evervolv_glacier
+PRODUCT_NAME := savagedzen_glacier
 PRODUCT_BRAND := tmobile
 PRODUCT_DEVICE := glacier
 PRODUCT_MODEL := HTC Glacier

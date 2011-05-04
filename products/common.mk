@@ -6,7 +6,7 @@ PRODUCT_DEVICE := generic
 
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=DonMessWivIt.ogg
+    ro.config.ringtone=BellPhone.ogg
 
 
 # Used by BusyBox
@@ -32,7 +32,7 @@ PRODUCT_PACKAGES += \
     SZParts \
     SZWallpapers \
     FileManager \
-    ADWLauncher2 \
+    Launcher2 \
     Terminal
 
 # Extra tools in SavagedZen
