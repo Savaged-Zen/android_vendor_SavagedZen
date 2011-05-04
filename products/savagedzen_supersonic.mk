@@ -1,5 +1,6 @@
 $(call inherit-product, device/htc/supersonic/supersonic.mk)
 $(call inherit-product, vendor/savagedzen/products/common.mk)
+$(call inherit-product, vendor/savagedzen/products/wimax.mk)
 
 #
 # Setup device specific product configuration.
