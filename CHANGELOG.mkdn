@@ -79,3 +79,11 @@ CHANGELOG
 * Email: Add CM7 Exchange optimizations
 * SZParts: Add System Settings and reorganize
 * BLUEZ: Use CM updates, tweaks for multiple connections, etc.
+
+### RC4
+* Common: Android 2.3.4 Merge
+* Supersonic: Update kernel to 2.1.0 CFS
+* WiMAX: Use google WiMAX
+* Settings: New 4G menu
+* SystemUI: New icons for signal and battery
+* SystemUI: Battery icon does not get stuck at 100%
