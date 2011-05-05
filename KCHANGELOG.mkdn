@@ -1,4 +1,4 @@
-Savaged-Zen(MOD)
+Savaged-Zen Kernel
 ===============
 
 Visit http://github.com/SavagedZen for full changelogs and git access.
@@ -14,74 +14,74 @@ Maintainers:
 CHANGELOG
 ---------
 ###Updated Feature Overview:
-*Simple I/O Scheduler
-*Deactivate Invalidated Pages patchset
-*I/O Less Dirty Throttling patchset
-*CFS SCHED_AUTOGROUP
-*BFS
-*BFQ
-*SLQB
-*HAVS
-*HAVS sysfs intrface
-*SBC mod
-*SBC sysfs interface
-*Ondemand tweaks
-*Awesome conservative tweaks
-*Smartass+SavagedZen governor
-*Max OC to 1.19Ghz
-*Undervolted min 950
+* Simple I/O Scheduler
+* Deactivate Invalidated Pages patchset
+* I/O Less Dirty Throttling patchset
+* CFS SCHED_AUTOGROUP
+* BFS
+* BFQ
+* SLQB
+* HAVS
+* HAVS sysfs intrface
+* SBC mod
+* SBC sysfs interface
+* Ondemand tweaks
+* Awesome conservative tweaks
+* Smartass+SavagedZen governor
+* Max OC to 1.19Ghz
+* Undervolted min 950
 
 ###0.0.3:
-*ClassicRCU
-*Brand spanking new SavagedZen CPU Governor !!! Based off of the SMARTASS gov. Brings the smartass goodness plus a few more tweaks
-*Fixed issues mounting SD Card via USB on Froyo ROMs (CM6, MIUI, ETC)
-*New v7_coherent_user_range patch from Galaxy S. This will provide better performance when playing games on the evo with an emulator such as psx4droid
+* ClassicRCU
+* Brand spanking new SavagedZen CPU Governor !!! Based off of the SMARTASS gov. Brings the smartass goodness plus a few more tweaks
+* Fixed issues mounting SD Card via USB on Froyo ROMs (CM6, MIUI, ETC)
+* New v7_coherent_user_range patch from Galaxy S. This will provide better performance when playing games on the evo with an emulator such as psx4droid
 
 ###0.0.4:
-*Numerous tweaks to BFS (should smooth out scrolling issues for *some* people), tweaked dirty_ratio/dirty_background_ratio, and minor CFS tweaks to increase responsiveness
-*Adjusted Savaged-Zen gov to minimize wakeup issues
-*Reverted THP patchset
-*Reverted Classic RCU
+* Numerous tweaks to BFS (should smooth out scrolling issues for *some* people), tweaked dirty_ratio/dirty_background_ratio, and minor CFS tweaks to increase responsiveness
+* Adjusted Savaged-Zen gov to minimize wakeup issues
+* Reverted THP patchset
+* Reverted Classic RCU
 
 ###0.0.5:
-*ext2/ext3 added
-*Misc. Fixes/Changes from CodeAurora
-*send havs messages to AVSDEBUG for an un-flooded dmesg
-*compiler optimizations from intersectRaven
-*a1026: enable diag ioctls (cyanogen)
-*reverted to older bcm4329 (-18) temporarily to see if it fixes sleep issue
-*128 mhz underclock
-*reverted cfs changes
-*BFS: Android-only: Allow non-privilledged tasks to bounce between SCHED_BATCH/NORMAL policies
+* ext2/ext3 added
+* Misc. Fixes/Changes from CodeAurora
+* send havs messages to AVSDEBUG for an un-flooded dmesg
+* compiler optimizations from intersectRaven
+* a1026: enable diag ioctls (cyanogen)
+* reverted to older bcm4329 (-18) temporarily to see if it fixes sleep issue
+* 128 mhz underclock
+* reverted cfs changes
+* BFS: Android-only: Allow non-privilledged tasks to bounce between SCHED_BATCH/NORMAL policies
 
 ###0.0.7
-*Fixed Wifi Wake issue
-*Fixed GPIO Issues
-*Added Stochastic Fair Blue (SFB) network scheduler.
-*Added YeAH TCP congestion control
-*Added Wimax updates
-*various other updates
+* Fixed Wifi Wake issue
+* Fixed GPIO Issues
+* Added Stochastic Fair Blue (SFB) network scheduler.
+* Added YeAH TCP congestion control
+* Added Wimax updates
+* various other updates
 
 ###0.0.8:
-*latest TOASTCFH wimax sleep bug fix
-*various USB gadget fixes
-*CPU freq mem leak fix
-*update wifi driver to .23
+* latest TOASTCFH wimax sleep bug fix
+* various USB gadget fixes
+* CPU freq mem leak fix
+* update wifi driver to .23
 
 ###0.0.9
-*brandons wifi fixes
+* brandons wifi fixes
 
 ###0.1.0
-*Upgrade to 2.6.37.1
-*wimax updates from cm-kernel
-*mmc fixes
-*wifi fix
+* Upgrade to 2.6.37.1
+* wimax updates from cm-kernel
+* mmc fixes
+* wifi fix
 
 ###0.1.1
-*tweaked bluetooth for better sound
-*upgraded to 2.6.37.2
-*tweaked SZ Gov
-*fixed latency and wakeup issues.!!!!
+* tweaked bluetooth for better sound
+* upgraded to 2.6.37.2
+* tweaked SZ Gov
+* fixed latency and wakeup issues.!!!!
 
 ###0.1.2
 * tweaked SZ Gov (cosmetic change)
@@ -139,5 +139,5 @@ CHANGELOG
 * Reverted 2.6.38.4, caused SD mount issues
 * Zen-Tune and more tweaks
 
-Known issues:
--------------
+###2.1.0
+* Brandon needs to update
