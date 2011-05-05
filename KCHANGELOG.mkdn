@@ -1,15 +1,15 @@
 Savaged-Zen Kernel
 ===============
 
-Visit http://github.com/SavagedZen for full changelogs and git access.
-
-Visit http://review.savaged-zen.org for our Gerrit instance.
+Visit http://github.com/SavagedZen/SavagedZen for source.
 
 Follow http://twitter.com/szgit for commit-by-commit updates.
 
 Maintainers:
 ------------
-* Supersonic: luisrcastillo, bbedward, jsseidel
+* Supersonic: bbedward
+* INC: bbedward
+* Glacier: bbedward
 
 CHANGELOG
 ---------

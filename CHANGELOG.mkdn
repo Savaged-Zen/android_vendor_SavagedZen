@@ -3,14 +3,15 @@ Savaged-Zen(MOD)
 
 Visit http://github.com/SavagedZen for full changelogs and git access.
 
-Visit http://review.savaged-zen.org for our Gerrit instance.
+Visit http://review.savaged-zen.com for our Gerrit instance.
 
 Follow http://twitter.com/szgit for commit-by-commit updates.
 
 Maintainers:
 ------------
-* Supersonic: jsseidel, mwielgosz
+* Supersonic: mwielgosz
 * Inc: jsseidel, mwielgosz
+* Glacier: jsseidel
 * Common: jsseidel, mwielgosz, Gibby
 
 CHANGELOG
