@@ -1,2 +1,2 @@
 # Required packages for WiMAX
-PRODUCT_PACKAGES += CMWiMAXSettings
+PRODUCT_PACKAGES += CMWimaxSettings
