@@ -140,4 +140,11 @@ CHANGELOG
 * Zen-Tune and more tweaks
 
 ###2.1.0
-* Brandon needs to update
+* 2.6.38.5
+* Pulled in CM updates
+* Should have fixed missing apps on sd card/ext3 issues
+* Minimized screen wake delay by reverting reduced power collapse frequency
+* Implemented hr_msleep into supersonic panel driver
+* Interactive Gov. tweaked for performance and harsher scaling (try it, it's fast :D)
+* Conservative Gov. lowered min sampling rate
+* SavagedZen Gov. Tweaks all around and eliminated the 768mhz issue
