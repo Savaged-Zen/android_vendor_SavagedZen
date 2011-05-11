@@ -31,6 +31,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     SZParts \
     SZWallpapers \
+    SZStats \
     FileManager \
     Launcher2 \
     Terminal
