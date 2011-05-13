@@ -148,3 +148,10 @@ CHANGELOG
 * Interactive Gov. tweaked for performance and harsher scaling (try it, it's fast :D)
 * Conservative Gov. lowered min sampling rate
 * SavagedZen Gov. Tweaks all around and eliminated the 768mhz issue
+
+###2.2.0
+* 2.6.38.6
+* Added interactiveX governor (suspend/wake logic and tweaks by imoseyon)
+* Added suspend/wake logic (imoseyon)
+* Raise load % before jumping to max freq on interactive
+* Various tweaks, lowered vfs cache pressure
