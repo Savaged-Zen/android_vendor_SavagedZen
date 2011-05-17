@@ -88,3 +88,7 @@ CHANGELOG
 * Settings: New 4G menu
 * SystemUI: New icons for signal and battery
 * SystemUI: Battery icon does not get stuck at 100%
+* 2.3.4: Music, video, camera, and camcorder fixed
+* Supersonic: MMS receive working
+* WiMAX: WiMAX retains correct status on reboot
+* 2.3.4: Settings > About Phone > Status no longer force closes
