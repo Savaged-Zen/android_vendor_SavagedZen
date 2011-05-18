@@ -83,7 +83,7 @@ CHANGELOG
 
 ### RC4
 * Common: Android 2.3.4 Merge
-* Supersonic: Update kernel to 2.1.0 CFS
+* Supersonic: Update kernel to 2.2.0 CFS
 * WiMAX: Use google WiMAX
 * Settings: New 4G menu
 * SystemUI: New icons for signal and battery
@@ -92,3 +92,5 @@ CHANGELOG
 * Supersonic: MMS receive working
 * WiMAX: WiMAX retains correct status on reboot
 * 2.3.4: Settings > About Phone > Status no longer force closes
+* SystemUI: Notification power widgets readded from 2.3.4 merge
+* New 4G icons match system theme
