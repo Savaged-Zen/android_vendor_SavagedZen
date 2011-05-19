@@ -19,7 +19,8 @@ PRODUCT_CODENAME = Glacier
 
 BUILD_VERSION_MAIN := RC4
 
-BUILD_VERSION := $(BUILD_VERSION_MAIN)-$(PRODUCT_CODENAME-Rendition-$(shell date +%m%d%Y)
+BUILD_VERSION := 
+$(BUILD_VERSION_MAIN)-$(PRODUCT_CODENAME)-Rendition-$(shell date +%m%d%Y)
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.romversion=SavagedZen(MOD)-$(BUILD_VERSION) \
