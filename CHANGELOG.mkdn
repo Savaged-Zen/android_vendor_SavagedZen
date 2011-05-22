@@ -94,3 +94,6 @@ CHANGELOG
 * 2.3.4: Settings > About Phone > Status no longer force closes
 * SystemUI: Notification power widgets readded from 2.3.4 merge
 * New 4G icons match system theme
+
+## RC5
+* Framework: Native USB multi-mount
