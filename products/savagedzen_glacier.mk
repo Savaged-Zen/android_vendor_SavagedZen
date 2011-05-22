@@ -17,10 +17,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=htc_glacier BUILD_ID=FRG83 BUILD_DI
 # Set up the product codename, build version & MOTD.
 PRODUCT_CODENAME = Glacier
 
-BUILD_VERSION_MAIN := RC4
-
-BUILD_VERSION := $(BUILD_VERSION_MAIN)-$(PRODUCT_CODENAME)-Rendition-$(shell date +%m%d%Y)
-
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.romversion=SavagedZen(MOD)-$(BUILD_VERSION) \
     ro.modversion=SavagedZen(MOD)-$(BUILD_VERSION) 

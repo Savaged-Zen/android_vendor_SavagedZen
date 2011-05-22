@@ -1,3 +1,6 @@
+$(call inherit-product, vendor/savagedzen/products/buildversion.mk)
+
+
 # Generic SavagedZen product
 ROM_NAME := SavagedZenMOD
 PRODUCT_NAME := savagedzen
