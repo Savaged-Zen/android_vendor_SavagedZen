@@ -97,3 +97,5 @@ CHANGELOG
 
 ## RC5
 * Framework: Native USB multi-mount
+* Supersonic: Update kernel to 2.2.1 CFS
+* WiMAX: fix on/off connect issue
