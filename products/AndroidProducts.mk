@@ -14,4 +14,8 @@ else ifeq ($(TARGET_PRODUCT),savagedzen_liberty)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_liberty.mk
 else ifeq ($(TARGET_PRODUCT),savagedzen_crespo4g)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_crespo4g.mk
+else ifeq ($(TARGET_PRODUCT),savagedzen_crespo)
+  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_crespo.mk
+else ifeq ($(TARGET_PRODUCT),savagedzen_generic)
+  PRODUCT_MAKEFILES := $(LOCAL_DIR)/savagedzen_generic.mk
 endif

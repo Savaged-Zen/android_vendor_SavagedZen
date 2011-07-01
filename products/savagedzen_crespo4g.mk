@@ -21,11 +21,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.romversion=SavagedZen(MOD)-$(BUILD_VERSION) \
     ro.modversion=SavagedZen(MOD)-$(BUILD_VERSION)
 
-PRODUCT_MOTD :="\n\n\n--------------------MESSAGE---------------------\nThank you for choosing SavagedZen for your MyTouch 4G\nPlease visit us at www.savaged-zen.org\nFollow @SZGIT for the latest SavagedZen updates\n------------------------------------------------\n"
+PRODUCT_MOTD :="\n\n\n--------------------MESSAGE---------------------\nThank you for choosing SavagedZen for your Nexus S 4G\nPlease visit us at www.savaged-zen.org\nFollow @SZGIT for the latest SavagedZen updates\n------------------------------------------------\n"
 
 # Add the Torch app
 PRODUCT_PACKAGES += Torch
-
 
 #
 # Copy crespo specific prebuilt files
