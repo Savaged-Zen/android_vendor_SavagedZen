@@ -99,3 +99,7 @@ CHANGELOG
 * Framework: Native USB multi-mount
 * Supersonic: Update kernel to 2.2.1 CFS
 * WiMAX: fix on/off connect issue
+* Added crespo builds (Nexus S)
+* Added crespo 4g builds (Nexus S 4G)
+* crespo/crespo4g: changed kernel to Matr1x by mathkid95
+

@@ -7,24 +7,31 @@ jsseidel1
 mwielgosz
 Nyght
 
-ROM Experts and Repo Setup
+ROM Experts and Repo Setup:
 ----------------------------
 preludedrew
 cyanogen
 
+Device Maintainers:
+---------------------
+HTC Evo4g: mwielgosz
+HTC MyTouch4g: jsseidel
+Samsung Nexus S: mwielgosz
+Samsung Nexus S 4G: mwielgosz
+
 Hosting and Mirrors
--------------------
+---------------------
 Gibby
 Nyght
 DrMacinyasha
 
-Kernel
-------
+Kernel:
+--------
 jsseidel1
 luisrcastillo
 bbedward
 
-Code Snippets
---------------
+Code Snippets:
+---------------
 Open Source Community
 
